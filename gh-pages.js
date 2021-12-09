@@ -13,6 +13,6 @@ publish(
         dotfiles: true
     },
     () => {
-        console.log('Deploy Complete!')
+        console.log('Deploy Complete')
     }
 )
