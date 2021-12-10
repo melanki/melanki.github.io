@@ -4,6 +4,7 @@
 </script>
 
 <main class="grid">
+    <div style="min-height: 33vh"></div>
     <Hero />
     <!-- <Contact /> -->
 </main>
