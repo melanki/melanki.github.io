@@ -2,7 +2,7 @@
 </script>
 
 <main>
-	<div class="grid md:grid-cols-2  md:content-center w-screen h-screen">
+	<div class="grid md:grid-cols-2  md:content-center w-screen hero">
 		<div class="p-8 place-self-center md:justify-self-end">
 			<p class="subtitle">Hi, my name is</p>
 			<p class="firstname">Marensius Bae</p>
@@ -89,11 +89,11 @@
 		z-index: 10;
 	}
 
-	.picture-container:hover > .picture {
+	.hero:hover > .picture-container img {
 		filter: none;
 	}
 
-	.picture-container:hover > #frame {
+	.hero:hover > .picture-container #frame {
 		transform: translate(-5%, -5%);
 	}
 

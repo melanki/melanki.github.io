@@ -1,4 +1,4 @@
-<main>
+<!-- <main>
 	<div class="grid place-content-center divide-y divide-yellow-500">
 		<form>
 			<label>Nome</label>
@@ -15,4 +15,4 @@
     label {
         color: green;
     }
-</style>
+</style> -->
